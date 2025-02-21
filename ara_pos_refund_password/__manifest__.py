@@ -15,7 +15,7 @@
     ],
     'assets': {
         'point_of_sale._assets_pos': [
-            'pos_refund_password/static/src/js/ticket_screen.js'
+            'ara_pos_refund_password/static/src/js/ticket_screen.js'
         ],
     },
     'images': ['static/description/banner_v18.png'],
