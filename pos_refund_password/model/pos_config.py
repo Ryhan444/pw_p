@@ -10,7 +10,4 @@ class PosConfig(models.Model):
     refund_security = fields.Integer(string='Refund Security',
                                      help="Refund security password, used for "
                                           "that specified shop")
-    @api.model
-    def fetch_global_refund_security(self):
-        param = self.env['ir.config_parameter'].sudo().get_param('pos_refund_password.global_refund_security')
-        return param
+
