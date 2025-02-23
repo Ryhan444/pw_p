@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 {
-    'name': 'Pos Restrict Refund Password',
+    'name': 'Pos Refund Password',
     'version': '18.0.0.0.0',
     'summary': """Pos Restrict Refund Password""",
     'description': """Protection with password for activity refund pos""",
