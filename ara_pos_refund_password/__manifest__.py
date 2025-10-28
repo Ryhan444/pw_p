@@ -18,7 +18,7 @@
             'ara_pos_refund_password/static/src/js/ticket_screen.js'
         ],
     },
-    'images': ['static/description/banner_v18.png'],
+    'images': ['static/description/banner.gif'],
     'license': "OPL-1",
     'installable': True,
     'application': True,
